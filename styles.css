@@ -60,8 +60,12 @@
     background-size:100vw; */
     /* padding: 3em; */
 .middle-con{
-    padding: 3em;
+    padding: 2em;
     background-color: var(--footer-background-color);
+}
+.middle-con small{
+    padding 2em;
+    line-height: 10px;
 }
 .content-columns{
     margin: 0 !important;
